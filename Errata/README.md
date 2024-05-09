@@ -1,6 +1,17 @@
 #### Errata in Macintosh Programming Techniques
 
 
+##### Chapter 5
+
+Source code of `MultiWindows.c`, the last line on page 205:
+```none
+ Num_Draw_Winds_Open-;
+```
+should be
+```none
+ Num_Draw_Winds_Open--;
+```
+
 ##### Page 194 - Missing `STR#` (128) resource, with four strings:
 
 - "Control Window"
