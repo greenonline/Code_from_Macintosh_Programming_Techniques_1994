@@ -10,6 +10,6 @@
 
   [![STR# resource][1]][1]
 
-    [1]: https://github.com/greenonline/Code_from_Macintosh_Programming_Techniques_1994/new/main/Errata/p194StringResource.png "STR# resource"
+    [1]: https://github.com/greenonline/Code_from_Macintosh_Programming_Techniques_1994/blob/main/Errata/p194StringResource.png "STR# resource"
 
   
